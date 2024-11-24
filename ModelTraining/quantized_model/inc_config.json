@@ -1,0 +1,12 @@
+{
+  "distillation": {},
+  "neural_compressor_version": "3.1.1",
+  "optimum_version": "1.23.3",
+  "pruning": {},
+  "quantization": {
+    "dataset_num_samples": null,
+    "is_static": false
+  },
+  "torch_version": "2.5.1",
+  "transformers_version": "4.45.2"
+}
