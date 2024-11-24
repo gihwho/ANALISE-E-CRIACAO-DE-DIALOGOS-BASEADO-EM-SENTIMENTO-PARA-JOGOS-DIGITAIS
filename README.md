@@ -78,5 +78,5 @@ Contribuição
 
 Se desejar contribuir ou relatar problemas:
 
-    GitHub: https://github.com/gihwho/IA-SENTIMENTO
+    GitHub: https://github.com/gihwho/ANALISE-E-CRIACAO-DE-DIALOGOS-BASEADO-EM-SENTIMENTO-PARA-JOGOS-DIGITAIS
     Contato: RA00297621@pucsp.edu.br
